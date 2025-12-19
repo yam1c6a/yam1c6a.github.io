@@ -46,6 +46,33 @@ LLMに頼りすぎず、設計とルールで「人格のあるAI」を作るの
 
 *A beginner-friendly learning project for C++ and GitHub, designed to teach algorithms and practical development workflow through building a Sudoku application.*
 
+---
+
+### Just Right Calendar　ちょうどいいカレンダー
+
+落ち着いた配色で、休日がひと目で分かる月表示カレンダー
+日本の祝日・振替休日に対応したシンプルなカレンダー設計
+土曜・日曜・祝日を色分けし、視認性を重視
+日付ごとに〇・✓・☆などのマークを付けて管理可能
+ホーム画面ウィジェットに対応し、予定確認を最短で行える
+「多機能すぎず、足りなくもない」ちょうどいい使い心地が特徴
+
+A calm and minimal monthly calendar app focused on clarity and ease of use.
+Designed to make Japanese holidays and weekends easy to recognize at a glance,
+with simple day markers and a home screen widget for quick access.
+
+---
+
+### PaperEater
+
+arXivから最新のAI論文を一覧で取得・閲覧できるデスクトップアプリ
+タイトル・著者・概要を整理して表示し、素早く内容を把握可能
+PDFのワンクリック表示・保存に対応
+ローカル保存を前提にしたシンプルで軽量な設計
+Windows / macOS / Linux 対応のクロスプラットフォーム構成
+
+A cross-platform desktop app for browsing and downloading the latest AI papers from arXiv, designed for quick reading, local storage, and minimal friction.
+
 ## Notes
 - 技術記事・設計メモは主に Zenn に掲載しています
 - 実験的・検証的な内容も含まれます
