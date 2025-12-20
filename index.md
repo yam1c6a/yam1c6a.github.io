@@ -73,6 +73,18 @@ Windows / macOS / Linux 対応のクロスプラットフォーム構成
 
 A cross-platform desktop app for browsing and downloading the latest AI papers from arXiv, designed for quick reading, local storage, and minimal friction.
 
+---
+
+### csv-rescue
+
+- VC++6.0 対応の軽量 CSV パーサ
+- 壊れ気味の CSV を止まらずに最後まで読み切ることに特化
+- 行ごとの列数ズレや未閉クオートを許容
+- Shift-JIS（Windows-31J / CP932）前提の業務向け設計
+- レガシー環境でのデータ救出用途を想定
+
+*A lightweight CSV parser for VC++6.0, designed to keep reading broken CSV files without stopping, focused on legacy and rescue-oriented use cases.*
+
 ## Notes
 - 技術記事・設計メモは主に Zenn に掲載しています
 - 実験的・検証的な内容も含まれます
